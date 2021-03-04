@@ -1,4 +1,4 @@
-# To view the final report that was submitted to for our capstone grade, read the file Final Report.pdf. This gives an overview of the work done and how the software works.
+# To view the final report that was submitted for our capstone grade, read the file Final Report.pdf. This gives an overview of the work done and how the software works.
 Short summation, the current version was unable to work because our hardware wasn't good enough, but after reviewing the software with a professor of machine learning, we are confident the software would work as intended with appropriate hardware. 
 
 # Pokemon w/ BCI
